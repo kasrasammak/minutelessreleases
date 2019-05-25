@@ -9,7 +9,6 @@
 }
 h1 {
   color: darkcyan;
-  text-decoration: darkgrey
 }
 
 .App-header {
@@ -35,9 +34,18 @@ h1 {
     transform: rotate(360deg);
   }
 }
-img {
+.albumart {
   width: 450px;
   height: auto;
+  border: solid 3px rgb(40, 184, 194);
+  border-radius: 5px;
+}
+.banner {
+  width: 550px;
+  height: auto;
+  border: solid 1px black;
+  border-radius: 15px;
+  
 }
 ol {
   font-size: 20px;

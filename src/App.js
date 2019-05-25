@@ -8,10 +8,10 @@ function App() {
       <header className="App-header">
       <br></br>
       {/* <h1>MINUTELESS RECORDINGS</h1> */}
-      <img src="/banner.jpg"></img>
+      <img class="banner"src="/banner.jpg"></img>
        <div>
          <br></br><br></br>
-        <img src="/min5.jpg"></img>
+        <img class="albumart"src="/min5.jpg"></img>
        </div>
        <br></br>
        <a href='https://drive.google.com/uc?authuser=0&id=1-D3fzF7ywmJNJ8LoDNR4b9O813RcLjL9&export=download' download>Download Full Album</a>
