@@ -14,13 +14,14 @@ function App() {
         <img class="albumart"src="/min5.jpg"></img>
        </div>
        <br></br>
-       <a href='https://drive.google.com/uc?authuser=0&id=1-D3fzF7ywmJNJ8LoDNR4b9O813RcLjL9&export=download' download>Download Full Album</a>
+       <a href='https://www.dropbox.com/s/hayxb6e5p1exmhc/minutelessvamaster.zip?dl=0' download>Download Full Album</a>
        <div>
         <ol> 
           <li>doob - Itt</li>
           <li>Rysavy - Crush</li>
-          <li>romeodark - 🅕🅡🅐🅖🅜🅔🅝🅣🅢</li>
+          <li>Romeodark - 🅕🅡🅐🅖🅜🅔🅝🅣🅢</li>
           <li>Tenebral Cortex - Lost Between Dimensions</li>
+          <li>Businessman - Swirl Twist</li>
           <li>Enigmachina - Unintention</li>
           <li>K-Owl - Mixed Up People</li>
           <li>Audionimus - Farmer Seeds</li>
@@ -29,7 +30,7 @@ function App() {
           <li>Gobbo - Nmetum</li>
           <li>Voj - Ab Anit</li>
           <li>Mirror Me - no minutes just chillin'</li>
-          <li>Audiosyntax - Scorpios Dilemma</li>
+          <li>Interior Conflict - Scorpio's Dilemma</li>
           <li>Beepetc. - Re:mind</li>
         </ol>
       <div>
@@ -39,11 +40,11 @@ function App() {
           It is a collection of tracks from 14 different artists. <br></br>
           The intent behind this compilation was<br></br>
           to create something new and interesting, <br></br>
-          and we are happy if we've even made a small stride towards that goal. <br></br>
+          and we are happy even if we've only made a small stride towards that goal. <br></br>
           All the production behind this compilation was done in-house: <br></br>
           Tracks written and produced by artists themselves.<br></br>
-          Mastering done by Daniel Eisenhut of Audionimus<br></br>
-          with the exemption of tracks x, y, and z, <br></br>
+          Mastering done by Ioannis Karapostolis of Tenebral Cortex<br></br>
+          with the exemption of tracks Voj - Ab Anit, and Romeodark - 🅕🅡🅐🅖🅜🅔🅝🅣🅢 <br></br>
           which were self-mastered.<br></br>
           Artwork by Kasra Sammak.<br></br>
           Artwork is a blend of hand-drawings made by various artists from this compilation.<br></br>
