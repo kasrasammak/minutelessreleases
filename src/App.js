@@ -21,7 +21,7 @@ function App() {
           <li>Rysavy - Crush</li>
           <li>Romeodark - 🅕🅡🅐🅖🅜🅔🅝🅣🅢</li>
           <li>Tenebral Cortex - Lost Between Dimensions</li>
-          <li>Businessman - Swirl Twist</li>
+          <li>Businessman - Swirl Click</li>
           <li>Enigmachina - Unintention</li>
           <li>K-Owl - Mixed Up People</li>
           <li>Audionimus - Farmer Seeds</li>
